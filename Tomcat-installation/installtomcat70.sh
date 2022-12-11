@@ -1,4 +1,4 @@
-[ec2-user@tomcat ~]$ cat tomcatinst.sh 
+[ec2-user@tomcat ~]$ vi tomcatinst.sh 
 # Steps for Installing tomcat9 on rhel7&8
 # install Java JDK 1.8+ as a pre-requisit for tomcat to run.
 # https://github.com/LandmakTechnology/package-management/tree/main/Tomcat-installation
